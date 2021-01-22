@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My second Blog",
+      "body": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "new blog",
+      "body": "this is the new blog",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "Hello Ninjas",
+      "body": "Hello Ninjas body for this body",
+      "author": "mario",
+      "id": 5
+    }
+  ]
+}
